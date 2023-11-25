@@ -1,5 +1,5 @@
 ### Summary
-As much as the standings of the tournament may disagree, this BattleBot, Mr. Moustache, is a warrior-at-heart. We were tasked to create a BattleBot and compete with fellow BattleBot groups during a tournament. There were many safety checks to pass, and we attended many workshops to get the robot parts from designed to assembled. Overall, it was a very pleasant experience to work with my team and put something together from scratch in a just a couple of weeks.
+As much as the standings of the tournament may disagree, this BattleBot, Mr. Moustache, is a warrior-at-heart. We were tasked to create a BattleBot and compete with fellow BattleBot groups during a tournament. There were many safety checks to pass, and we attended many workshops to get the robot parts from designed to assembled. To move the robot, we used a hand-held controller that can dictate the direction of the wheels turning. Overall, it was a very pleasant experience to work with my team and put something together from scratch in a just a couple of weeks.
 
 ### What Worked
 The designing part of the project went smoothly, and the CADing of the individual parts were extremely detailed and accounted for many issues that we could've ran into.
